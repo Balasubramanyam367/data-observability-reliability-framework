@@ -6,7 +6,7 @@ data quality issues, pipeline failures, and anomalies before they impact
 downstream consumers.
 
 ## Architecture
-(We will add the diagram in the next step.)
+"C:\Users\balas\OneDrive\Desktop\Github projects\data-observability-reliability-framework\architecture.png"
 
 ## Tech Stack
 - Great Expectations
